@@ -18,7 +18,7 @@ Every project here started as a spark and became a journey
 
 | Realm | What it is | Stack | Live |
 |---|---|---|---|
-| [**Stardust Blog**](https://github.com/EvenStarDust/BlogWebsite) | A personal blog website built with React | React · JavaScript | [Visit ✨](https://evenstardust.github.io/BlogWebsite) |
+| [**Stardust Blog**](https://github.com/EvenStarDust/BlogWebsite) | 🌱 My very first React project, where the journey began | React · JavaScript | [Visit ✨](https://evenstardust.github.io/BlogWebsite) |
 | *More realms coming soon* | 🌱 | | |
 
 ## ⚔️ Our Weapons
